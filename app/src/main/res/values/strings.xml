@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testServidor</string>
+    <string name="file_provider_authority">translatable="false"</string>
+</resources>
